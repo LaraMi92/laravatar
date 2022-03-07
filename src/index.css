@@ -19,3 +19,7 @@ code {
 .canvas {
   background: url("./overlay.svg") repeat;
 }
+
+.loader {
+  text-align: center;
+}
